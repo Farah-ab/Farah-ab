@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Farah ABOUCHA </h1>
 <h3 align="center"> Data Science Postgraduate student </h3>
 
-- Get to know me 😁 I hold of Bachelor of Science in Business Administration with **Major in Business Analytics** and **Minor in Marketing** from Tunis Business School, Tunisia. My passion for Data science continues as I pursue a Master of Science in Economic Analysis and Policy specialised in **Data Science and Management of Innovation** at Jean Monnet University, France.
+- Get to know me 😁 I hold a Bachelor of Science in Business Administration with **Major in Business Analytics** and **Minor in Marketing** from Tunis Business School, Tunisia. My passion for Data science continues as I pursue a Master of Science in Economic Analysis and Policy specialised in **Data Science and Management of Innovation** at Jean Monnet University, France.
   
 - 🌱 Passionate about marketing, sales and business, I'm looking forward to apply my data science knowledge to support companies in taking more informed decisions.
 
