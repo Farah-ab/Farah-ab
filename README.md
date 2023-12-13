@@ -26,7 +26,7 @@
 <h4 align="left"> Data Visualization: </h4> <a href="https://powerbi.microsoft.com/fr-fr/" target="_blank" rel="noreferrer"> <img src="https://github.com/Farah-ab/Farah-ab/blob/main/iconimages/PowerBI.png" alt="Power BI" width="50" height="40"/> </a> </p>
 
 <h4 align="left"> Web Scraping and Monitoring Tools: </h4>
-<a href="https://www.google.fr/alerts" target="_blank" rel="noreferrer"> <img src="https://github.com/Farah-ab/Farah-ab/blob/main/iconimages/GoogleAlerts.png" width="80" alt="Google Alerts" height="40"/> </a><a href="https://www.questel.com/fr/mise-a-jour-produit/intelligence/" target="_blank" rel="noreferrer"> <img src="https://github.com/Farah-ab/Farah-ab/blob/main/iconimages/Orbit-intelligence.svg" width="40" alt="Orbit Intelligence" height="40"/> </a> </p>
+<a href="https://www.google.fr/alerts" target="_blank" rel="noreferrer"> <img src="https://github.com/Farah-ab/Farah-ab/blob/main/iconimages/google-alerts.svg" width="80" alt="Google Alerts" height="40"/> </a><a href="https://www.questel.com/fr/mise-a-jour-produit/intelligence/" target="_blank" rel="noreferrer"> <img src="https://github.com/Farah-ab/Farah-ab/blob/main/iconimages/Orbit-intelligence.svg" width="40" alt="Orbit Intelligence" height="40"/> </a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
