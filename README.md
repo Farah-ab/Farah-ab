@@ -5,7 +5,7 @@
   
 - 🌱 Passionate about marketing, sales and business, I'm looking forward to apply my data science knowledge to support companies in taking more informed decisions.
 
-- 🔎 I am currently looking for **a 3 to 4 months internship** starting April 2024, in France.
+- 🔎 I am currently looking for **an internship** starting April 2024, in France.
 
 - 👨‍💻 All of my projects are available in my [Repositories](https://github.com/Farah-ab?tab=repositories)
 
