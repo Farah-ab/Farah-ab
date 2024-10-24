@@ -3,7 +3,7 @@
 
 - Get to know me 😁 I hold a Bachelor of Science in Business Administration with **Major in Business Analytics** and **Minor in Marketing** from Tunis Business School, Tunisia. My passion for Data science continues as I pursue a Master of Science in Economic Analysis and Policy specialised in **Data Science and Management of Innovation** at Jean Monnet University, France.
   
-- 🌱 Passionate about marketing, sales, e-commerce and consulting, I'm looking forward to apply my data science knowledge to support companies in taking more informed decisions.
+- 🌱 Passionate about project management, innovation and consulting, I'm looking forward to apply my data science knowledge to support companies in taking more informed decisions.
     
 - 👨‍💻 All of my projects are available in my [Repositories](https://github.com/Farah-ab?tab=repositories) or my Data Science [Portfolio](https://www.datascienceportfol.io/farahaboucha).
 
